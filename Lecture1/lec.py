@@ -266,13 +266,13 @@
 # print(f(x)) 
 
 
-def f(x):
-    if x == 1:
-        return 'Целое'
-    elif x == 2.3:
-        return 23
-    else:
-        return x    
+# def f(x):
+#     if x == 1:
+#         return 'Целое'
+#     elif x == 2.3:
+#         return 23
+#     else:
+#         return x    
 
-a = 2.3
-print(f(a))
+# a = 1
+# print(f(a))
