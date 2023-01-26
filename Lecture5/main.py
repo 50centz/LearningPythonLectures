@@ -11,6 +11,7 @@ app.add_handler(CommandHandler("sum", sum_command))
 print('server start')
 
 app.run_polling()
+print('server start')
 
 
 
